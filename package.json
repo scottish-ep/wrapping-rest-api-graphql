@@ -1,0 +1,22 @@
+{
+  "name": "wrapping-rest-api-graphql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scottish-ep/wrapping-rest-api-graphql.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scottish-ep/wrapping-rest-api-graphql/issues"
+  },
+  "homepage": "https://github.com/scottish-ep/wrapping-rest-api-graphql#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
